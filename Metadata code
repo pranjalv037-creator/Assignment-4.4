@@ -1,0 +1,6 @@
+<meta charset="UTF-8"> — Supports different characters and symbols.
+<meta name="viewport"> — Helps the page display properly on mobile devices.
+<title> — Sets the title displayed in the browser tab.
+<meta name="description"> — Provides a short description of the webpage.
+<link rel="icon"> — Adds a favicon to the browser tab.
+<link rel="stylesheet"> —
